@@ -57,6 +57,7 @@ ls --help
 到google 搜尋linux ls
 ```
 # ls 詳細參數
+```
 lab@29d4cf5af0ab:~$ ls --help
 Usage: ls [OPTION]... [FILE]...
 List information about the FILEs (the current directory by default).
@@ -175,3 +176,4 @@ GNU coreutils online help: <http://www.gnu.org/software/coreutils/>
 Report ls translation bugs to <http://translationproject.org/team/>
 Full documentation at: <http://www.gnu.org/software/coreutils/ls>
 or available locally via: info '(coreutils) ls invocation'
+```
