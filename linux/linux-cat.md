@@ -1,9 +1,10 @@
-# cat
+# cat指令測試
 ```
 cat flag
 cat .hidden
 ```
-### cat --help
+### 指令參數的學習
+### cat 詳細參數
 ```
 lab@29d4cf5af0ab:~$ cat --help
 Usage: cat [OPTION]... [FILE]...
