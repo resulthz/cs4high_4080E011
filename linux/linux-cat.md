@@ -3,7 +3,6 @@
 cat flag
 cat .hidden
 ```
-### 指令參數的學習
 ### cat 詳細參數
 ```
 lab@29d4cf5af0ab:~$ cat --help
