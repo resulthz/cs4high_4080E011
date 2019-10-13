@@ -1,7 +1,12 @@
 # cat指令測試
 ```
-cat flag
-cat .hidden
+lab@29d4cf5af0ab:~$ cat flag
+BreakALLCTF{Sobkjgd14VuIFBUtgVts}
+```
+```
+lab@29d4cf5af0ab:~$ cat .hidden
+BreakALLCTF{WucLSg4cxPNYuXFF5XxJ}
+
 ```
 ### cat 詳細參數
 ```
