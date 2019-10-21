@@ -23,9 +23,20 @@ print(word.replace("a", "z"))
 (A)出現錯誤,無法印出   (B)arttarataaa  (C)zrttzrztaaa (D)zrttzrztzzz
 
 ```
-# 程式設計題
+# for 迴圈(loop)的技巧
+## 程式閱讀題
+```
+for name in ['orange', 'apple']:
+	print(name)
 
-## for 迴圈(loop)的技巧
+```
+
+```
+for index in range(0, 6):
+	print(index)
+
+```
+## 程式設計題
 
 ### 1.使用for 迴圈(loop)計算1+2+3+.....100
 ```
@@ -41,7 +52,19 @@ for i in range(1,101,2):
   sum+=i
 print(sum)
 ```
-## while 迴圈(loop)的技巧
+# while 迴圈(loop)的技巧
+## 程式閱讀題
+```
+index = 0
+while index < 1:
+	print("Hello, 龍聖")
+```
+```
+index = 0
+while index > 1:
+	print("Hello, 龍聖")
+```
+## 程式設計題
 
 ### 3.使用while 迴圈(loop)計算1+2+3+.....100
 ```
