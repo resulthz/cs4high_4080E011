@@ -42,6 +42,7 @@ for i in range(1,101,2):
 print(sum)
 ```
 ## while 迴圈(loop)的技巧
+
 ### 3.使用while 迴圈(loop)計算1+2+3+.....100
 ```
 i=1
