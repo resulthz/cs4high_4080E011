@@ -66,7 +66,7 @@ for i in range(1,101,2):
   sum+=i
 print(sum)
 ```
-### 3.使用for 迴圈(loop)計算1*3*5*7.....*99
+### 3.使用for 迴圈(loop)計算1 * 3 * 5 * 7..... * 99
 ```
 sum=1
 for i in range(1,101,2):
