@@ -48,21 +48,21 @@ print(sum)
 3.使用while 迴圈(loop)計算1+2+3+.....100
 ```
 ```
-a=1
-s=0
-while a<101:
-  s+=a
-  a+=1
-print(s)
+i=1
+sum=0
+while i<101:
+  sum+=a
+  i+=1
+print(sum)
 ```
 ```
 4.使用while 迴圈(loop)計算1+3+5+7.....+99
 ```
 ```
-a=1
-s=0
-while a<100:
-  s += a
-  a +=2
-print(s)
+i=1
+sum=0
+while i<100:
+  sum += a
+  i +=2
+print(sum)
 ```
