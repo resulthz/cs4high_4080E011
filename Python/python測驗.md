@@ -85,7 +85,7 @@ while index > 1:
 i=1
 sum=0
 while i<101:
-  sum+=a
+  sum+=i
   i+=1
 print(sum)
 ```
@@ -94,7 +94,7 @@ print(sum)
 i=1
 sum=0
 while i<100:
-  sum += a
+  sum += i
   i +=2
 print(sum)
 ```
