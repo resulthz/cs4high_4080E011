@@ -66,6 +66,13 @@ for i in range(1,101,2):
   sum+=i
 print(sum)
 ```
+### 3.使用for 迴圈(loop)計算1*3*5*7.....*99
+```
+sum=1
+for i in range(1,101,2):
+  sum*=i
+print(sum)
+```
 # while 迴圈(loop)的技巧
 ## 程式閱讀題
 ```
@@ -80,7 +87,7 @@ while index > 1:
 ```
 ## 程式設計題
 
-### 3.使用while 迴圈(loop)計算1+2+3+.....100
+### 1.使用while 迴圈(loop)計算1+2+3+.....100
 ```
 i=1
 sum=0
@@ -89,7 +96,7 @@ while i<101:
   i+=1
 print(sum)
 ```
-### 4.使用while 迴圈(loop)計算1+3+5+7.....+99
+### 2.使用while 迴圈(loop)計算1+3+5+7.....+99
 ```
 i=1
 sum=0
@@ -98,3 +105,15 @@ while i<100:
   i +=2
 print(sum)
 ```
+### 3.使用while 迴圈(loop)計算1*3*5*7.....*99
+```
+i=1
+sum=1
+while i<100:
+  sum *= i
+  i += 2
+print(sum)
+```
+
+
+
