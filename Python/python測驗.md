@@ -24,29 +24,25 @@ print(word.replace("a", "z"))
 
 ```
 # 程式設計題
-```
-### for 迴圈(loop)的技巧
-```
-```
-1.使用for 迴圈(loop)計算1+2+3+.....100
-```
+
+## for 迴圈(loop)的技巧
+
+### 1.使用for 迴圈(loop)計算1+2+3+.....100
 ```
 sum=0
 for i in range(1,101):
   sum+=i
 print(sum)
 ```
-2.使用for 迴圈(loop)計算1+3+5+7.....+99
+### 2.使用for 迴圈(loop)計算1+3+5+7.....+99
 ```
 sum=0
 for i in range(1,101,2):
   sum+=i
 print(sum)
 ```
-### while 迴圈(loop)的技巧
-```
-3.使用while 迴圈(loop)計算1+2+3+.....100
-```
+## while 迴圈(loop)的技巧
+### 3.使用while 迴圈(loop)計算1+2+3+.....100
 ```
 i=1
 sum=0
@@ -55,9 +51,7 @@ while i<101:
   i+=1
 print(sum)
 ```
-```
-4.使用while 迴圈(loop)計算1+3+5+7.....+99
-```
+### 4.使用while 迴圈(loop)計算1+3+5+7.....+99
 ```
 i=1
 sum=0
