@@ -125,6 +125,11 @@ Fn = F[n-1]+ F[n-2](n=>2)
 ```
 ```
 答案是：
+for i in range(1, 10):
+    for j in range(1, 10):
+        s=i*j
+        print(j,"*",i,"=",s,"\t",end="")
+    print()    
 
 ```
 #
