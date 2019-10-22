@@ -12,6 +12,15 @@ https://www.runoob.com/python/python-100-examples.html
 ```
 ```
 答案是：
+s = [1, 2, 3, 4]
+for i in range(0, 4):
+    for j in range(0, 4):
+        for x in range(0, 4):
+            a =int(s[i])
+            b =int(s[j])
+            c =int(s[x])
+            if a != b and b != c and c != a:
+                print(a,b,c)
 
 ```
 
