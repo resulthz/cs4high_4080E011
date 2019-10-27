@@ -36,6 +36,17 @@ for i in range(1, 5):
 ```
 ```
 答案是：
+profit = int(input("利潤:"))
+d = [1000000, 600000, 400000, 200000, 100000, 0]
+p = [0.01, 0.015, 0.03, 0.05, 0.075, 0.1]
+s = 0
+for i in range(0, len(d)):
+    if profit > d[i]:
+        s += (profit - d[i]) * p[i] 
+        print("高於",d[i],"的部分可提成:",(profit - d[i]) * p[i]) 
+        profit=d[i]
+
+print ("淨利潤: ",s)
 
 ```
 #
