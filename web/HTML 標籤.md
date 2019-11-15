@@ -1,5 +1,5 @@
 # 十大HTML必考標籤
-### 段落 <p></p> 
+### 段落 <p> </p> 
 ```
 <!DOCTYPE html>
 <html>
