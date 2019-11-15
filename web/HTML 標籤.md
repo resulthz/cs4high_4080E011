@@ -1,0 +1,18 @@
+# 十大HTML必考標籤
+### 段落 <p></p> 
+```
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>菜鸟教程(runoob.com)</title>
+</head>
+<body>
+
+<p>这是一个段落。</p>
+<p>这是一个段落。</p>
+<p>这是一个段落。</p>
+
+</body>
+</html>
+```
