@@ -1,5 +1,6 @@
 # RAID
 ```
+https://zh.wikipedia.org/wiki/RAID
 容錯式磁碟陣列（RAID, Redundant Array of Independent Disks），簡稱磁碟陣列。
 利用虛擬化儲存技術把多個硬碟組合起來，成為一個或多個硬碟陣列組，目的為提升效能或資料冗餘，或是兩者同時提升。
 簡單來說，RAID把多個硬碟組合成為一個邏輯硬碟，因此，作業系統只會把它當作一個實體硬碟。RAID常被用在伺服器電腦上，
