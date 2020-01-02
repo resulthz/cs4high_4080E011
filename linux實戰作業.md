@@ -26,10 +26,11 @@ ping
 資料擷取： head, tail
 非純文字檔： od
 修改檔案時間與建置新檔： touch
+```
 ## 檔案與目錄的預設權限與隱藏權限
 ```
 檔案預設權限：umask
-檔案隱藏屬性： chattr, lsattr
+檔案隱藏屬性：chattr , lsattr
 檔案特殊權限：SUID, SGID, SBIT, 權限設定
 觀察檔案類型：file
 ```
